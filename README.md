@@ -18,7 +18,7 @@ These notes are meant for personal reference and learning reinforcement. They ma
 
 ⚙️ Structure
 
-Each certification has its own folder with topic-based markdown files for easier navigation.
+Each certification has its own folder.
 
 📄 Disclaimer
 
