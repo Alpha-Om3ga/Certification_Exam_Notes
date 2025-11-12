@@ -6,9 +6,9 @@ This repository contains my personal study notes and summaries from various IT a
 
 CompTIA A+ — IT fundamentals, hardware, and troubleshooting
 
-CompTIA Security+ — Core cybersecurity principles and best practices
-
 CompTIA Network+ — Networking concepts, protocols, and infrastructure
+
+CompTIA Security+ — Core cybersecurity principles and best practices
 
 Cisco CCNA — Routing, switching, and network operations fundamentals
 
