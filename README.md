@@ -12,6 +12,8 @@ CompTIA Security+ — Core cybersecurity principles and best practices
 
 Cisco CCNA — Routing, switching, and network operations fundamentals
 
+AZ-900 - Azure Fundamentals.
+
 🧭 Purpose
 
 These notes are meant for personal reference and learning reinforcement. They may also be helpful to others preparing for similar certifications, but should not be considered official study material.
